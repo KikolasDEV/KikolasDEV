@@ -85,8 +85,8 @@ Una aplicación de gestión de contraseñas creada con **Flutter** y **SQLite**,
 
 ## 📚 Formación
 
-### Master Python Udemy Certificate
-Bootcamp by Angela Yu | Junio 2024 - Agosto 2024
+### Udemy Certificate - The Complete Python Pro Bootcamp
+Bootcamp by Angela Yu | Junio 2024 - Septiembre 2024
 
 ### C.F.G.S. Desarrollo de Aplicaciones Multiplataforma
 IES Vista Alegre | Septiembre 2022 - Junio 2024
