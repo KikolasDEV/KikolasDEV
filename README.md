@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Kiko Amarillo!
 
-¡Bienvenido a mi perfil de GitHub! Antes que nada quiero especificar que efectivamente mi verdadero nombre puede ser algo largo, tedioso y (depende de quién) difícil de recordar: José Francisco González Amarillo, así que puede que os resulte más cómodo si os dirigís hacia mí tal y como me llaman desde que nací: Kiko. ¡Genial!
+¡Bienvenido a mi perfil de GitHub! Antes que nada quiero especificar que efectivamente mi verdadero nombre puede ser algo largo, tedioso y (depende de quién) difícil de recordar: José Francisco, así que puede que os resulte más cómodo si os dirigís hacia mí tal y como me llaman desde que nací: Kiko. ¡Genial!
 
 Ahora bien, soy un **Desarrollador de Software Junior** apasionado por el uso de **Python** y siempre estoy con ansias de seguir especializándome así como buscar nuevas tecnologías para seguir aumentando mis conocimientos. Actualmente estoy en búsqueda de oportunidades para aprender y crecer en el mundo del desarrollo de software. ¡Aquí te cuento un poco más sobre mí!
 
