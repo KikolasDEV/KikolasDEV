@@ -85,6 +85,9 @@ Una aplicación de gestión de contraseñas creada con **Flutter** y **SQLite**,
 
 ## 📚 Formación
 
+### Udemy Certificate - Python and Django Bootcamp
+Bootcamp by Jose Portilla | Octubre 2024 - Noviembre 2024
+
 ### Udemy Certificate - The Complete Python Pro Bootcamp
 Bootcamp by Angela Yu | Junio 2024 - Septiembre 2024
 
