@@ -1,6 +1,6 @@
 # 👋 ¡Muy buenas, soy Kiko Amarillo!
 
-Mi nombre completo es **José Francisco González Amarillo**, pero desde siempre todos me han llamado **Kiko**, así que ¡no dudes en hacerlo! Cuento con experiencia en **Python** y sus principales frameworks, como **Django**, **Flask**.
+Mi nombre completo es **José Francisco González Amarillo**, pero desde siempre todos me han llamado **Kiko**, así que ¡no dudes en hacerlo! Cuento con experiencia sobre todo en **Python** y sus principales frameworks, como **Django** y **Flask**.
 
 Aunque mi enfoque inicial estaba orientado al desarrollo backend, con el tiempo he descubierto el apasionante mundo del frontend y he encontrado un equilibrio que me permite disfrutar y crecer en ambos lados del desarrollo. Por eso, me defino como un **FullStack Developer en constante evolución**.
 
