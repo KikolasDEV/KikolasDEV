@@ -1,7 +1,7 @@
 # 👋 ¡Muy buenas, soy Kiko Amarillo!
 
 Soy **José Francisco González Amarillo**, aunque todo el mundo me conoce como **Kiko**.  
-Soy **FullStack Developer Jr.** con experiencia profesional en **Java** y **Python**, desarrollando aplicaciones web con **Spring**, **Django**, **Flask**, **FastAPI**.
+Soy **FullStack Developer Jr.** con experiencia en **Java** y **Python**, desarrollando aplicaciones web con **Spring**, **Django**, **Flask** y **FastAPI**.
 
 Empecé muy centrado en el **backend**, pero poco a poco he ido disfrutando cada vez más del **frontend**, creando interfaces modernas con **React** y **Angular**.
 Tengo **disponibilidad inmediata** y estoy abierto a **nuevas oportunidades y reubicación si es necesario**.
