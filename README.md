@@ -6,10 +6,9 @@ Soy **FullStack Developer Jr.** con experiencia profesional en **Java** y **Pyth
 Empecé muy centrado en el **backend**, pero poco a poco he ido disfrutando cada vez más del **frontend**, creando interfaces modernas con **React** y **Angular**.
 Tengo **disponibilidad inmediata** y estoy abierto a **nuevas oportunidades y reubicación si es necesario**.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kikoamarillo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visita-38BDF8?style=flat&logo=vercel&logoColor=white)](https://kikolasdev.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-KikolasDEV-181717?style=flat&logo=github&logoColor=white)](https://github.com/KikolasDEV)
-[![Gmail](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kikoamarillo94@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kikoamarillo/)
+[![Portfolio](https://img.shields.io/badge/🔗%20Portfolio-Visita-38BDF8?style=for-the-badge&logoColor=white)](https://kikolasdev.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikoamarillo94@gmail.com)
 <br>
 <br>
 ## 🧑‍💻 Sobre mí
