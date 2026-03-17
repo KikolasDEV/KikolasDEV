@@ -112,7 +112,7 @@ Blog personal construido con **Python**, **Flask** y **SQLite**, siguiendo una a
 ## 💼 Experiencia Profesional
 
 ### **FullStack Developer – DYPAI**  
-**Diciembre 2024 – Febrero 2025**
+**Septiembre 2024 – Diciembre 2025**
 
 - Desarrollo y mantenimiento de **páginas web y componentes** con **React**.  
 - Creación de **rutas API** con **Flask** o **FastAPI**, utilizando **MongoDB** como base de datos.  
