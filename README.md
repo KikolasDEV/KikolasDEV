@@ -13,8 +13,9 @@ Tengo **disponibilidad inmediata** y estoy abierto a **nuevas oportunidades y re
 <br>
 ## 🧑‍💻 Sobre mí
 
-- Mi foco principal está en el **desarrollo web** con tecnologías como **Java / Spring**, **Python (Django, Flask, FastAPI)** y **JavaScript**.  
-- He trabajado tanto en **entornos reales de empresa** como en proyectos personales, construyendo **APIs REST**, **sistemas internos** y **páginas web completas**.  
+- Mi foco principal está en el **desarrollo web** con tecnologías como **Java / Spring**, **Python (Django, Flask, FastAPI)** y **JavaScript**.
+- He trabajado tanto en **entornos reales de empresa** como en proyectos personales, construyendo **APIs REST**, **sistemas internos** y **páginas web completas**.
+- Integro **IA aplicada al desarrollo** en mi flujo de trabajo (Copilot, GPT/ChatGPT, Claude Code, v0) para acelerar prototipado, refactor, tests, documentación y revisión de código.
 - Disfruto especialmente de:
   - Diseñar **arquitecturas claras por capas**.
   - Conectar **frontends modernos** con **backends robustos**.
@@ -56,6 +57,13 @@ Tengo **disponibilidad inmediata** y estoy abierto a **nuevas oportunidades y re
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🔹 IA aplicada al desarrollo
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge)
 
 ### 🔹 Herramientas y Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -161,10 +169,11 @@ Blog personal construido con **Python**, **Flask** y **SQLite**, siguiendo una a
 
 ## 🌍 Otros datos
 
+- **IA aplicada al desarrollo**: refactor, tests, documentación, revisión de código, etc
 - Idiomas: **Castellano (nativo)**, **Inglés (alto)**.  
-- Permiso de conducir **B**.  
+- Permiso de conducir **B**.
+- **Trabajo en equipo** y habilidades comunicativas.  
 - Experiencia en entornos **Windows** y **Linux**.  
-- Manejo de herramientas de IA como **ChatGPT**, **GitHub Copilot** y **v0** para apoyar el desarrollo.
 
 <br>
 
