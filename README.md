@@ -160,8 +160,8 @@ Blog personal construido con **Python**, **Flask** y **SQLite**.
 
 Estoy ampliando perfil hacia nuevas áreas y reforzando conocimientos técnicos complementarios:
 
-- **C++** y **Unreal Engine**
-- **C#** y **Unity**
+- Mayor profundidad en el desarrollo de software asistido por **IA**
+- **Unreal Engine** y **Unity**
 
 ## 🌍 Otros datos
 
