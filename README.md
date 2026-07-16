@@ -130,6 +130,9 @@ Blog personal construido con **Python**, **Flask** y **SQLite**.
 
 ### Formación
 
+- **Máster en Desarrollo con IA** - BIG School  
+  *Julio 2026 - Septiembre 2026*
+  
 - **C.F.G.S. Desarrollo de Aplicaciones Web** - Ilerna Online  
   *Septiembre 2025 - Junio 2026*
   
